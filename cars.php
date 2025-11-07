@@ -26,8 +26,8 @@ if ($dbcon)
                     <td>{$row['car_id']}</td>
                     <td>{$row['make']}</td>
                     <td>{$row['model']}</td>
-                    <td>{$row['year']}</td>
                     <td>{$row['price']}</td>
+                    <td>{$row['yom']}</td>
                   </tr>";
         }
 
